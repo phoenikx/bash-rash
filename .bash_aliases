@@ -1,15 +1,16 @@
 
 alias gs="git status"
-alias gc="git commit -m"
+alias gcm="git commit -m"
 alias gd="git diff"
 alias gcheckout="git checkout"
 alias rbp="source $HOME/.bash_profile"
+alias rbrc="source $HOME/.bashrc"
 alias gp="git push -u"
 alias gpull="git pull"
 alias src="source"
 alias tailf="tail -f"
 alias tailn="tail -n"
-alias tfnout="tail -f nohup.out"
+alias tfnh="tail -f nohup.out"
 add_to_path() {
    export PATH="$PATH:$1"
 }
