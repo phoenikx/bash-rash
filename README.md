@@ -1,4 +1,5 @@
-**Bash aliases** 
+**.bash_aliases** 
+
 I never like typing long commands, especially the git ones since I used git extensively throughout my day.
 
 So, I make an alias for any command which seems to be long enough for me. It makes the life a lot easier. To try it, copy paste
