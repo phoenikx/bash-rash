@@ -1,0 +1,8 @@
+alias gs="git status"
+alias gc="git commit -m"
+alias gd="git diff"
+alias gcheckout="git checkout"
+alias rbp="source {$HOME}/.bash_profile"
+alias gp="git push -u"
+alias gpull="git pull"
+alias src="source"
